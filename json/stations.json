@@ -1,0 +1,1024 @@
+{
+    "Majestic Heights": [
+        {
+            "name": "Terubong Jaya",
+            "distance": 1
+        }
+    ],
+    "Terubong Jaya": [
+        {
+            "name": "Majestic Heights",
+            "distance": 1
+        },
+        {
+            "name": "Tingkat Paya Terubong",
+            "distance": 1
+        }
+    ],
+    "Tingkat Paya Terubong": [
+        {
+            "name": "Terubong Jaya",
+            "distance": 1
+        },
+        {
+            "name": "Pekan Paya Terubong",
+            "distance": 1
+        }
+    ],
+    "Pekan Paya Terubong": [
+        {
+            "name": "Tingkat Paya Terubong",
+            "distance": 1
+        },
+        {
+            "name": "Bomba Paya Terubong",
+            "distance": 1
+        }
+    ],
+    "Bomba Paya Terubong": [
+        {
+            "name": "Pekan Paya Terubong",
+            "distance": 1
+        },
+        {
+            "name": "Ayer Itam",
+            "distance": 1
+        }
+    ],
+    "Ayer Itam": [
+        {
+            "name": "Bomba Paya Terubong",
+            "distance": 1
+        },
+        {
+            "name": "Hye Keat",
+            "distance": 1
+        }
+    ],
+    "Hye Keat": [
+        {
+            "name": "Ayer Itam",
+            "distance": 1
+        },
+        {
+            "name": "Padang Tembak",
+            "distance": 1
+        }
+    ],
+    "Padang Tembak": [
+        {
+            "name": "Hye Keat",
+            "distance": 1
+        },
+        {
+            "name": "Masjid Negeri",
+            "distance": 1
+        }
+    ],
+    "Masjid Negeri": [
+        {
+            "name": "Padang Tembak",
+            "distance": 1
+        },
+        {
+            "name": "Han Chiang",
+            "distance": 1
+        }
+    ],
+    "Han Chiang": [
+        {
+            "name": "Masjid Negeri",
+            "distance": 1
+        },
+        {
+            "name": "Stadium",
+            "distance": 1
+        }
+    ],
+    "Stadium": [
+        {
+            "name": "Han Chiang",
+            "distance": 1
+        },
+        {
+            "name": "Times Square",
+            "distance": 1
+        }
+    ],
+    "Times Square": [
+        {
+            "name": "Stadium",
+            "distance": 1
+        },
+        {
+            "name": "Komtar",
+            "distance": 1
+        }
+    ],
+    "Komtar": [
+        {
+            "name": "Times Square",
+            "distance": 1
+        },
+        {
+            "name": "Pykett",
+            "distance": 1
+        },
+        {
+            "name": "Kampung Kolam",
+            "distance": 1
+        },
+        {
+            "name": "Macallum",
+            "distance": 1
+        }
+    ],
+    "Pykett": [
+        {
+            "name": "Jalan Sultan Ahmad",
+            "distance": 1
+        },
+        {
+            "name": "Komtar",
+            "distance": 1
+        }
+    ],
+    "Jalan Sultan Ahmad": [
+        {
+            "name": "Pykett",
+            "distance": 1
+        },
+        {
+            "name": "Kelawai",
+            "distance": 1
+        }
+    ],
+    "Kelawai": [
+        {
+            "name": "Jalan Sultan Ahmad",
+            "distance": 1
+        },
+        {
+            "name": "Gurney Paragon",
+            "distance": 1
+        }
+    ],
+    "Gurney Paragon": [
+        {
+            "name": "Kelawai",
+            "distance": 1
+        },
+        {
+            "name": "Gurney Drive",
+            "distance": 1
+        }
+    ],
+    "Gurney Drive": [
+        {
+            "name": "Gurney Paragon",
+            "distance": 1
+        },
+        {
+            "name": "Island Plaza",
+            "distance": 1
+        }
+    ],
+    "Island Plaza": [
+        {
+            "name": "Gurney Drive",
+            "distance": 1
+        },
+        {
+            "name": "Tanjung Pinang",
+            "distance": 1
+        }
+    ],
+    "Tanjung Pinang": [
+        {
+            "name": "Island Plaza",
+            "distance": 1
+        }
+    ],
+    "Kampung Kolam": [
+        {
+            "name": "Komtar",
+            "distance": 1
+        },
+        {
+            "name": "Lebuh Pantai",
+            "distance": 1
+        }
+    ],
+    "Lebuh Pantai": [
+        {
+            "name": "Kampung Kolam",
+            "distance": 1
+        },
+        {
+            "name": "Lebuh Victoria",
+            "distance": 1
+        }
+    ],
+    "Lebuh Victoria": [
+        {
+            "name": "Lebuh Pantai",
+            "distance": 1
+        },
+        {
+            "name": "Terminal Feri",
+            "distance": 1
+        }
+    ],
+    "Terminal Feri": [
+        {
+            "name": "Lebuh Victoria",
+            "distance": 1
+        },
+        {
+            "name": "Swettenham Pier",
+            "distance": 1
+        }
+    ],
+    "Swettenham Pier": [
+        {
+            "name": "Terminal Feri",
+            "distance": 1
+        }
+    ],
+    "Macallum": [
+        {
+            "name": "Komtar",
+            "distance": 1
+        },
+        {
+            "name": "Bandar Sri Pinang",
+            "distance": 1
+        }
+    ],
+    "Bandar Sri Pinang": [
+        {
+            "name": "Macallum",
+            "distance": 1
+        },
+        {
+            "name": "Skycab",
+            "distance": 1
+        }
+    ],
+    "Skycab": [
+        {
+            "name": "Bandar Sri Pinang",
+            "distance": 1
+        },
+        {
+            "name": "Penang Sentral",
+            "distance": 5
+        },
+        {
+            "name": "Jelutong Timur",
+            "distance": 1
+        }
+    ],
+    "Jelutong Timur": [
+        {
+            "name": "Skycab",
+            "distance": 1
+        },
+        {
+            "name": "The Light",
+            "distance": 1
+        }
+    ],
+    "The Light": [
+        {
+            "name": "Jelutong Timur",
+            "distance": 1
+        },
+        {
+            "name": "Perai Selatan",
+            "distance": 8
+        },
+        {
+            "name": "Gelugor",
+            "distance": 1
+        }
+    ],
+    "Gelugor": [
+        {
+            "name": "The Light",
+            "distance": 1
+        },
+        {
+            "name": "USM",
+            "distance": 1
+        }
+    ],
+    "USM": [
+        {
+            "name": "Gelugor",
+            "distance": 1
+        },
+        {
+            "name": "Batu Uban",
+            "distance": 1
+        }
+    ],
+    "Batu Uban": [
+        {
+            "name": "Pesta",
+            "distance": 1
+        },
+        {
+            "name": "USM",
+            "distance": 1
+        }
+    ],
+    "Pesta": [
+        {
+            "name": "Batu Uban",
+            "distance": 1
+        },
+        {
+            "name": "Sungai Nibong",
+            "distance": 1
+        }
+    ],
+    "Sungai Nibong": [
+        {
+            "name": "Pesta",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Jambul",
+            "distance": 1
+        }
+    ],
+    "Bukit Jambul": [
+        {
+            "name": "Sungai Nibong",
+            "distance": 1
+        },
+        {
+            "name": "SPICE",
+            "distance": 1
+        }
+    ],
+    "SPICE": [
+        {
+            "name": "Bukit Jambul",
+            "distance": 1
+        },
+        {
+            "name": "Jalan Tengah",
+            "distance": 1
+        }
+    ],
+    "Jalan Tengah": [
+        {
+            "name": "SPICE",
+            "distance": 1
+        },
+        {
+            "name": "FIZ Utara",
+            "distance": 1
+        }
+    ],
+    "FIZ Utara": [
+        {
+            "name": "Jalan Tengah",
+            "distance": 1
+        },
+        {
+            "name": "FIZ Selatan",
+            "distance": 1
+        }
+    ],
+    "FIZ Selatan": [
+        {
+            "name": "FIZ Utara",
+            "distance": 1
+        },
+        {
+            "name": "Sungai Tiram",
+            "distance": 1
+        }
+    ],
+    "Sungai Tiram": [
+        {
+            "name": "FIZ Selatan",
+            "distance": 1
+        },
+        {
+            "name": "Penang International Airport",
+            "distance": 1
+        }
+    ],
+    "Penang International Airport": [
+        {
+            "name": "Sungai Tiram",
+            "distance": 1
+        },
+        {
+            "name": "Permatang Damar Laut",
+            "distance": 1
+        }
+    ],
+    "Permatang Damar Laut": [
+        {
+            "name": "Penang International Airport",
+            "distance": 1
+        }
+    ],
+    "Perai Selatan": [
+        {
+            "name": "The Light",
+            "distance": 8
+        },
+        {
+            "name": "Perai Utara",
+            "distance": 1
+        }
+    ],
+    "Perai Utara": [
+        {
+            "name": "Perai Selatan",
+            "distance": 1
+        },
+        {
+            "name": "Taman Supreme",
+            "distance": 1
+        }
+    ],
+    "Taman Supreme": [
+        {
+            "name": "Perai Utara",
+            "distance": 1
+        },
+        {
+            "name": "Taman Perai Utama",
+            "distance": 1
+        },
+        {
+            "name": "Taman Chai Leng",
+            "distance": 1
+        },
+        {
+            "name": "Pauh Jaya",
+            "distance": 1
+        }
+    ],
+    "Taman Perai Utama": [
+        {
+            "name": "Penang Sentral",
+            "distance": 1
+        },
+        {
+            "name": "Taman Supreme",
+            "distance": 1
+        }
+    ],
+    "Penang Sentral": [
+        {
+            "name": "Chain Ferry",
+            "distance": 1
+        },
+        {
+            "name": "Taman Perai Utama",
+            "distance": 1
+        },
+        {
+            "name": "Skycab",
+            "distance": 5
+        },
+        {
+            "name": "Bukit Tengah",
+            "distance": 3
+        }
+    ],
+    "Chain Ferry": [
+        {
+            "name": "Penang Sentral",
+            "distance": 1
+        },
+        {
+            "name": "Sungai Nyiur",
+            "distance": 1
+        }
+    ],
+    "Taman Kenanga": [
+        {
+            "name": "Taman Bunga Raya",
+            "distance": 1
+        }
+    ],
+    "Taman Bunga Raya": [
+        {
+            "name": "Taman Kenanga",
+            "distance": 1
+        },
+        {
+            "name": "Taman Mawar",
+            "distance": 1
+        }
+    ],
+    "Taman Mawar": [
+        {
+            "name": "Taman Bunga Raya",
+            "distance": 1
+        },
+        {
+            "name": "Raja Uda",
+            "distance": 1
+        }
+    ],
+    "Raja Uda": [
+        {
+            "name": "Taman Mawar",
+            "distance": 1
+        },
+        {
+            "name": "Sungai Nyiur",
+            "distance": 1
+        }
+    ],
+    "Sungai Nyiur": [
+        {
+            "name": "Chain Ferry",
+            "distance": 1
+        },
+        {
+            "name": "Raja Uda",
+            "distance": 1
+        },
+        {
+            "name": "Taman Perindustrian Seberang Jaya",
+            "distance": 1
+        }
+    ],
+    "Taman Perindustrian Seberang Jaya": [
+        {
+            "name": "Sungai Nyiur",
+            "distance": 1
+        },
+        {
+            "name": "Seberang Jaya",
+            "distance": 1
+        }
+    ],
+    "Seberang Jaya": [
+        {
+            "name": "Taman Perindustrian Seberang Jaya",
+            "distance": 1
+        },
+        {
+            "name": "Taman Chai Leng",
+            "distance": 1
+        }
+    ],
+    "Taman Chai Leng": [
+        {
+            "name": "Seberang Jaya",
+            "distance": 1
+        },
+        {
+            "name": "Taman Supreme",
+            "distance": 1
+        }
+    ],
+    "Pauh Jaya": [
+        {
+            "name": "Taman Supreme",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Tengah",
+            "distance": 1
+        }
+    ],
+    "Bukit Tengah": [
+        {
+            "name": "Pauh Jaya",
+            "distance": 1
+        },
+        {
+            "name": "Penang Sentral",
+            "distance": 3
+        },
+        {
+            "name": "Bandar Perda",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Mertajam",
+            "distance": 1
+        }
+    ],
+    "Bandar Perda": [
+        {
+            "name": "Bukit Tengah",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Mertajam",
+            "distance": 1
+        }
+    ],
+    "Bukit Mertajam": [
+        {
+            "name": "Bandar Perda",
+            "distance": 1
+        },
+        {
+            "name": "Taman Sai Gin",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Tengah",
+            "distance": 1
+        },
+        {
+            "name": "Simpang Ampat",
+            "distance": 7
+        },
+        {
+            "name": "Tasek Gelugor",
+            "distance": 4
+        }
+    ],
+    "Taman Sai Gin": [
+        {
+            "name": "Bukit Mertajam",
+            "distance": 1
+        },
+        {
+            "name": "Aston",
+            "distance": 1
+        }
+    ],
+    "Aston": [
+        {
+            "name": "Taman Sai Gin",
+            "distance": 1
+        },
+        {
+            "name": "Jalan Maju",
+            "distance": 1
+        }
+    ],
+    "Jalan Maju": [
+        {
+            "name": "Aston",
+            "distance": 1
+        },
+        {
+            "name": "St Anne",
+            "distance": 1
+        }
+    ],
+    "St Anne": [
+        {
+            "name": "Jalan Maju",
+            "distance": 1
+        },
+        {
+            "name": "Alma",
+            "distance": 1
+        }
+    ],
+    "Alma": [
+        {
+            "name": "St Anne",
+            "distance": 1
+        },
+        {
+            "name": "Taman Desa Cahaya",
+            "distance": 1
+        }
+    ],
+    "Taman Desa Cahaya": [
+        {
+            "name": "Alma",
+            "distance": 1
+        },
+        {
+            "name": "Taman Sri Kijang",
+            "distance": 1
+        }
+    ],
+    "Taman Sri Kijang": [
+        {
+            "name": "Taman Desa Cahaya",
+            "distance": 1
+        },
+        {
+            "name": "Permatang Tinggi",
+            "distance": 1
+        }
+    ],
+    "Permatang Tinggi": [
+        {
+            "name": "Taman Sri Kijang",
+            "distance": 1
+        },
+        {
+            "name": "Taman Perwira Indah",
+            "distance": 1
+        }
+    ],
+    "Taman Perwira Indah": [
+        {
+            "name": "Permatang Tinggi",
+            "distance": 1
+        },
+        {
+            "name": "Simpang Ampat",
+            "distance": 1
+        }
+    ],
+    "Simpang Ampat": [
+        {
+            "name": "Taman Perwira Indah",
+            "distance": 1
+        },
+        {
+            "name": "Taman Kasawari",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Mertajam",
+            "distance": 7
+        },
+        {
+            "name": "Nibong Tebal",
+            "distance": 1
+        }
+    ],
+    "Taman Kasawari": [
+        {
+            "name": "Simpang Ampat",
+            "distance": 1
+        },
+        {
+            "name": "Taman Tambun Indah",
+            "distance": 1
+        }
+    ],
+    "Taman Tambun Indah": [
+        {
+            "name": "Taman Kasawari",
+            "distance": 1
+        },
+        {
+            "name": "Taman Tambun Permai",
+            "distance": 1
+        }
+    ],
+    "Taman Tambun Permai": [
+        {
+            "name": "Taman Tambun Indah",
+            "distance": 1
+        },
+        {
+            "name": "Taman Merpati Indah",
+            "distance": 1
+        }
+    ],
+    "Taman Merpati Indah": [
+        {
+            "name": "Taman Tambun Permai",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Tambun",
+            "distance": 1
+        }
+    ],
+    "Bukit Tambun": [
+        {
+            "name": "Taman Merpati Indah",
+            "distance": 1
+        },
+        {
+            "name": "Stadium Batu Kawan",
+            "distance": 1
+        }
+    ],
+    "Stadium Batu Kawan": [
+        {
+            "name": "Bukit Tambun",
+            "distance": 1
+        },
+        {
+            "name": "Crescentia Park",
+            "distance": 1
+        }
+    ],
+    "Crescentia Park": [
+        {
+            "name": "Stadium Batu Kawan",
+            "distance": 1
+        },
+        {
+            "name": "Halaman Seroja",
+            "distance": 1
+        }
+    ],
+    "Halaman Seroja": [
+        {
+            "name": "Crescentia Park",
+            "distance": 1
+        },
+        {
+            "name": "Hijau E-Komuniti",
+            "distance": 1
+        }
+    ],
+    "Hijau E-Komuniti": [
+        {
+            "name": "Halaman Seroja",
+            "distance": 1
+        },
+        {
+            "name": "Design Village",
+            "distance": 1
+        }
+    ],
+    "Design Village": [
+        {
+            "name": "Hijau E-Komuniti",
+            "distance": 1
+        },
+        {
+            "name": "Aspen-Ikano",
+            "distance": 1
+        }
+    ],
+    "Aspen-Ikano": [
+        {
+            "name": "Design Village",
+            "distance": 1
+        },
+        {
+            "name": "Taman Perindustrian Bandar Cassia",
+            "distance": 1
+        }
+    ],
+    "Taman Perindustrian Bandar Cassia": [
+        {
+            "name": "Aspen-Ikano",
+            "distance": 1
+        }
+    ],
+    "Tasek Gelugor": [
+        {
+            "name": "Bukit Mertajam",
+            "distance": 4
+        },
+        {
+            "name": "Sungai Petani",
+            "distance": 1
+        }
+    ],
+    "Sungai Petani": [
+        {
+            "name": "Tasek Gelugor",
+            "distance": 1
+        },
+        {
+            "name": "Gurun",
+            "distance": 1
+        }
+    ],
+    "Gurun": [
+        {
+            "name": "Sungai Petani",
+            "distance": 1
+        },
+        {
+            "name": "Kobah",
+            "distance": 1
+        }
+    ],
+    "Kobah": [
+        {
+            "name": "Gurun",
+            "distance": 1
+        },
+        {
+            "name": "Alor Setar",
+            "distance": 1
+        }
+    ],
+    "Alor Setar": [
+        {
+            "name": "Kobah",
+            "distance": 1
+        },
+        {
+            "name": "Anak Bukit",
+            "distance": 1
+        }
+    ],
+    "Anak Bukit": [
+        {
+            "name": "Alor Setar",
+            "distance": 1
+        },
+        {
+            "name": "Kodiang",
+            "distance": 1
+        }
+    ],
+    "Kodiang": [
+        {
+            "name": "Anak Bukit",
+            "distance": 1
+        },
+        {
+            "name": "Arau",
+            "distance": 1
+        }
+    ],
+    "Arau": [
+        {
+            "name": "Kodiang",
+            "distance": 1
+        },
+        {
+            "name": "Bukit Ketri",
+            "distance": 1
+        }
+    ],
+    "Bukit Ketri": [
+        {
+            "name": "Arau",
+            "distance": 1
+        },
+        {
+            "name": "Padang Besar",
+            "distance": 1
+        }
+    ],
+    "Padang Besar": [
+        {
+            "name": "Bukit Ketri",
+            "distance": 1
+        }
+    ],
+    "Nibong Tebal": [
+        {
+            "name": "Bukit Mertajam",
+            "distance": 1
+        },
+        {
+            "name": "Parit Buntar",
+            "distance": 1
+        }
+    ],
+    "Parit Buntar": [
+        {
+            "name": "Nibong Tebal",
+            "distance": 1
+        },
+        {
+            "name": "Bagan Serai",
+            "distance": 1
+        }
+    ],
+    "Bagan Serai": [
+        {
+            "name": "Parit Buntar",
+            "distance": 1
+        },
+        {
+            "name": "Kamunting",
+            "distance": 1
+        }
+    ],
+    "Kamunting": [
+        {
+            "name": "Bagan Serai",
+            "distance": 1
+        },
+        {
+            "name": "Taiping",
+            "distance": 1
+        }
+    ],
+    "Taiping": [
+        {
+            "name": "Kamunting",
+            "distance": 1
+        },
+        {
+            "name": "Padang Rengas",
+            "distance": 1
+        }
+    ],
+    "Padang Rengas": [
+        {
+            "name": "Taiping",
+            "distance": 1
+        }
+    ]
+}

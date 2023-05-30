@@ -1,0 +1,18 @@
+{
+    "Majestic Heights": [
+        {
+            "name": "Terubong Jaya",
+            "distance": 1
+        }
+    ],
+    "Terubong Jaya": [
+        {
+            "name": "Majestic Heights",
+            "distance": 1
+        },
+        {
+            "name": "Tingkat Paya Terubong",
+            "distance": 1
+        }
+    ]
+}
